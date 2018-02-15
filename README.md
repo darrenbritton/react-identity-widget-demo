@@ -3,3 +3,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bcomnes/react-identity-widget-demo)
 
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/darrenbritton/react-identity-widget-demo.svg)](https://greenkeeper.io/)
